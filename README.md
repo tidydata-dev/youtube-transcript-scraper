@@ -2,7 +2,7 @@
 
 Get the **transcript of any YouTube video** — and of **whole playlists, channels (@handle) or search results** — as clean text, timed segments, **SRT / VTT subtitles** and **chapters with their own text**. No YouTube API key, no cookies, no proxies to manage.
 
-This repo shows how to call the hosted **[YouTube Transcript Scraper on Apify](https://apify.com/tidydata/youtube-transcript-scraper)** from your code. It costs **$2 per 1,000 transcripts**; videos without captions are free.
+This repo shows how to call the hosted **[YouTube Transcript Scraper on Apify](https://apify.com/tidydata/youtube-transcript-scraper)** from your code. It costs **$0.50 per 1,000 transcripts**; videos without captions are free.
 
 ## Why not just `youtube-transcript-api`?
 
