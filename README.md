@@ -2,7 +2,7 @@
 
 Get the **transcript of any YouTube video** — and of **whole playlists, channels (@handle) or search results** — as clean text, timed segments, **SRT / VTT subtitles** and **chapters with their own text**. No YouTube API key, no cookies, no proxies to manage.
 
-This repo shows how to call the hosted **[YouTube Transcript Scraper on Apify](https://apify.com/tidydata/youtube-transcript-scraper)** from your code. It costs **$0.50 per 1,000 transcripts**; videos without captions are free.
+This repo shows how to call the hosted **[YouTube Transcript Scraper on Apify](https://apify.com/tidydata/youtube-transcript-scraper?fpr=wtg6qt)** from your code. It costs **$0.50 per 1,000 transcripts**; videos without captions are free.
 
 ## Why not just `youtube-transcript-api`?
 
@@ -56,11 +56,14 @@ More: [`examples/python_basic.py`](examples/python_basic.py) · [`examples/pytho
 
 ## Use it from no-code tools
 
-The Actor works with **Make, Zapier, n8n**, webhooks and schedules, and as a tool for AI agents through the Apify MCP server — see the [Actor page](https://apify.com/tidydata/youtube-transcript-scraper).
+The Actor works with **Make, Zapier, n8n**, webhooks and schedules, and as a tool for AI agents through the Apify MCP server — see the [Actor page](https://apify.com/tidydata/youtube-transcript-scraper?fpr=wtg6qt).
 
 ## Related
 
-- [Audio & Video Transcription](https://apify.com/tidydata/audio-video-transcription) — Whisper transcription for your own audio/video files and podcast feeds.
-- [Merge, Deduplicate & Transform Datasets](https://apify.com/tidydata/merge-dedupe-datasets) — keep only new videos across scheduled runs.
+- [Audio & Video Transcription](https://apify.com/tidydata/audio-video-transcription?fpr=wtg6qt) — Whisper transcription for your own audio/video files and podcast feeds.
+- [Merge, Deduplicate & Transform Datasets](https://apify.com/tidydata/merge-dedupe-datasets?fpr=wtg6qt) — keep only new videos across scheduled runs.
 
 Examples in this repo are MIT-licensed. Transcripts belong to their creators — respect copyright when you republish them.
+
+---
+<sub>Links to apify.com include our affiliate ID: if you start a paid Apify plan through them, Apify pays TidyData a commission at no extra cost to you.</sub>
